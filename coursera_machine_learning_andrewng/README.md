@@ -45,5 +45,9 @@ Coursera's Machine Learning by Andrew Ng
 * Normal Equation VS Gradient descent
 * [quiz:100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/quiz_Linear%20Regression%20with%20Multiple%20Variables.docx)
 
+### Octave/Matlab Tutorial
+
+* [code](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/octave)
+* [quiz:80](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/quiz_Octave%20Matlab%20Tutorial.docx)
 
 
