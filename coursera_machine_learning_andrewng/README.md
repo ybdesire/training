@@ -50,4 +50,20 @@ Coursera's Machine Learning by Andrew Ng
 * [code](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/octave)
 * [quiz:80](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/quiz_Octave%20Matlab%20Tutorial.docx)
 
+### Programming Assignment
+
+* [linear regression by matlab](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_2/machine-learning-ex1/ex1)
+
+
+## week-3
+
+### Regularization
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_3/quiz_class_Regularized%20Logistic%20Regression.docx)
+
+* [final quiz:100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_3/quiz_week.docx)
+
+
+
+
+
 
