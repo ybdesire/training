@@ -62,7 +62,9 @@ Coursera's Machine Learning by Andrew Ng
 
 * [final quiz:100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_3/quiz_week.docx)
 
+### Programming Assignment
 
+* [logistic regression by matlab](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_3/machine-learning-ex2/ex2)
 
 
 
