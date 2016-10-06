@@ -27,10 +27,13 @@ a2 = sigmoid(X*Theta1');
 a2 = [ones(size(a2,1),1) a2];
 a3 = sigmoid(a2*Theta2');
 
+h=
 
-[v,i]=max(a3,[],2); % the index at max value for each row
+[v,i]=max(h,[],2); % the index at max value for each row
 p=i;% predict = index
 
+
+size(a3)
 
 % =========================================================================
 

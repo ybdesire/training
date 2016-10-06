@@ -30,13 +30,9 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
-
-
-
-
-
+h = X*all_theta';
+[v,i]=max(h,[],2); % the index at max value for each row
+p=i;% predict = index
 
 % =========================================================================
-
-
 end
