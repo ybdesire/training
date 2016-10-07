@@ -67,5 +67,33 @@ Coursera's Machine Learning by Andrew Ng
 * [logistic regression by matlab](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_3/machine-learning-ex2/ex2)
 
 
+## week-4
+
+### Non-linear Hypotheses
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/quiz_class_Non-linear%20Hypotheses.docx)
+
+
+### Neural Networks
+
+* activiation function
+* input/hidden/output layer
+* NN can has multi-hidden layer
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/quiz_class_Neural_Networks_Model_Representation_I.docx)
+
+### Applications
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/quiz_class_Applications.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/quiz_class_Multicalss.docx)
+
+### END
+
+* [final quiz:80](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/quiz_final.docx)
+
+### Programming Assignment
+
+[Multi-class Classification and Neural Networks](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/machine-learning-ex3)
+
+
 
 
