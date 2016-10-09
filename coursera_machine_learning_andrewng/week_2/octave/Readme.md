@@ -26,3 +26,11 @@
 * cost function at `costFunctionJ.m`
 
 
+**Data save and load**
+
+```
+t = 0:0.01:1;     % generate vector
+
+save t.vect t;   % save data
+load('t.vect');  % load data
+```
