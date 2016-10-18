@@ -94,6 +94,52 @@ Coursera's Machine Learning by Andrew Ng
 
 [Multi-class Classification and Neural Networks](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_4/machine-learning-ex3)
 
+## week-5
+
+### Cost Function and Backpropagation
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_class_cost_function.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_class_BP_algorithm.docx)
+
+### Backpropagation in Practice
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quic_class_unrolling_parameters.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_class_gradient_checking.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_class_putting_it_together.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_class_random_initialization.docx)
+
+## Quzi: Neural Networks
+
+* [final quiz: 80](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_5/quiz_final.docx)
+
+
+## week-6
+
+
+### Evaluating a Learning Algorithm
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_deciding_what_to_try_next.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_evaluating_a_hypothesis.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_model_selection_and_train_validation_test_sets.docx)
+
+### Bias vs. Variance
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_diagnosing_bias_vs_variance.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_regularization_and_bias_variance.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_learning_curves.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_deciding_what_to_do_next_revisited.docx)
+
+### Quiz: Advice for Applying Machine Learning
+
+* [middle quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_mid_advice_for_applying_machine_learning.docx)
+
+### Programming Assignment: Regularized Linear Regression and Bias/Variance
+
+
+### Quiz: Machine Learning System Design
+
+
+
 
 
 
