@@ -135,11 +135,49 @@ Coursera's Machine Learning by Andrew Ng
 
 ### Programming Assignment: Regularized Linear Regression and Bias/Variance
 
+* [Regularized Linear Regression and Bias/Variance](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/machine-learning-ex5)
 
-### Quiz: Machine Learning System Design
+### Building a Spam Classifier
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_building_a_spam_classifier.docx)
+
+### Handling Skewed Data
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_handling_skewed_data.docx)
+
+### Using Large Data Sets
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_class_using_large_data_sets.docx)
+
+### QUIZ: Machine Learning System Design
+
+* [final quiz: 100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_6/quiz_final.docx)
 
 
+## week-7
 
 
+### Large Margin Classification
 
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_optimization_objective.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_large_margin_intuition.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_mathematics_behind_large_margin_classification.docx)
+
+
+### Kernels
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_kernel_1.docx)
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_kernel_2.docx)
+
+### SVMs in Practice
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_class_using_an_svm.docx)
+
+### QUIZ: Support Vector Machines
+
+* [final quiz: 100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/quiz_final.docx)
+
+### Programming Assignment: Support Vector Machines
+
+* [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/machine-learning-ex6)
 
