@@ -181,3 +181,34 @@ Coursera's Machine Learning by Andrew Ng
 
 * [class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_7/machine-learning-ex6)
 
+
+## week-8
+
+### Clustering
+
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_unsuppervised_learning.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_k_means_algorithm.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_optimization_objective.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_random_initialization.docx)
+
+
+### Quiz: Unsupervised Learning
+
+[final quiz: 100](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_final_cluster.docx)
+
+### Dimensionality Reduction
+
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_motivation_1_data_compression.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_motivation_2_visualization.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_principal_component_analysis_problem_formulation.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_principal_component_analysis_algorithm.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_reconstruction_from_compressed_representation.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_choosing_the_number_of_principal_components.docx)
+[class quiz](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_class_advice_for_applying_pca.docx)
+
+
+### Quiz: Principle Component Analysis
+
+[quiz final: 80](https://github.com/ybdesire/training/blob/master/coursera_machine_learning_andrewng/week_8/quiz_final_pca.docx)
+
+
