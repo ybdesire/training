@@ -39,7 +39,13 @@ for i = 1:size(E, 1),
             % Hint: You might find it helpful to use IndexToAssignment
             %       and SetValueOfAssignment
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-            
+            assignments = IndexToAssignment(1:prod(F(j).card), F(j).card);
+            index_keep = find(assignments(:,indx)==x);
+            for m=1:size(F(j).val,2)
+                if(~ismember(m, index_keep))
+                    F(j).val(m)=0;
+                end
+            end
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 				% Check validity of evidence / resulting factor
